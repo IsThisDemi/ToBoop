@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToBoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4815711de183747486de950bd9d3586bcf35cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToBoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToBoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

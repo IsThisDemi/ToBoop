@@ -130,3 +130,4 @@
 /Users/rosa/Desktop/Progetti/ToBoop/ToBoop/ToBoop/obj/Debug/net8.0/ToBoop.genruntimeconfig.cache
 /Users/rosa/Desktop/Progetti/ToBoop/ToBoop/ToBoop/obj/Debug/net8.0/ref/ToBoop.dll
 /Users/rosa/Desktop/Progetti/ToBoop/ToBoop/ToBoop/bin/Debug/net8.0/CommunityToolkit.Mvvm.dll
+/Users/rosa/Desktop/Progetti/ToBoop/ToBoop/ToBoop/obj/Debug/net8.0/ToBoop.sourcelink.json
